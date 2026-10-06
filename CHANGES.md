@@ -35,6 +35,7 @@
 ## 0.18
 - fixed unique constraint creation with the `deferrable` parameter
 - split CI into smaller jobs
+- fixed unique constraint creation with the `deferrable` parameter
 
 ## 0.17
 - added django 5.1 support
